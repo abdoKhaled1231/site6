@@ -1,0 +1,1404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bwFrame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" default_layout="npnxnanbsnfns01001011111" textdirection="rtl" textengine="DirectWrite" device="true" fontscale="138" captionFontScale="100" kbshortcuts="false" skip_nav_enabled="true" chromeless="false" outputtype="undefined" theme="classic">
+  <layouts>
+    <layout name="npnxnanbsnfns01001011111" font="Zilla Slab" controllayout="npnxnanbsnfns01001011111" colorscheme="npnxnanbsnfns01001011111" string_table="npnxnanbsnfns01001011111" />
+    <layout name="pxabnsnfns01001011111" font="Zilla Slab" controllayout="pxabnsnfns01001011111" colorscheme="npnxnanbsnfns01001011111" string_table="npnxnanbsnfns01001011111" />
+    <layout name="npxnabnsnfns01001011111" font="Zilla Slab" controllayout="npxnabnsnfns01001011111" colorscheme="npnxnanbsnfns01001011111" string_table="npnxnanbsnfns01001011111" />
+    <layout name="npnxnanbnsnfns01001011111" font="Zilla Slab" controllayout="npnxnanbnsnfns01001011111" colorscheme="npnxnanbsnfns01001011111" string_table="npnxnanbsnfns01001011111" />
+    <layout name="pxabnsnfns01001011110" font="Zilla Slab" controllayout="pxabnsnfns01001011110" colorscheme="npnxnanbsnfns01001011111" string_table="npnxnanbsnfns01001011111" />
+  </layouts>
+  <control_options>
+    <optiongroups>
+      <optiongroup name="sidebaroptions">
+        <options>
+          <option name="title_enabled" value="true">
+            <options>
+              <option name="title_text" value="الاختبار القبلي للموديول الثاني " />
+            </options>
+          </option>
+          <option name="logo_enabled" value="true">
+            <options>
+              <option name="logo_url" value="story_content\5ZmMsWf9ztn_DX1024_DY1024.swf" />
+              <option name="html5_logo_url" value="mobile/5ifrFCxYDKM.gif" />
+            </options>
+          </option>
+          <option name="sidebar_enabled" value="true">
+            <options>
+              <option name="sidebarpos" value="right" />
+              <option name="closed" value="false" />
+            </options>
+          </option>
+          <optionlist name="tabs">
+            <listitems>
+              <listitem name="resources" value="false" group="linkright" />
+              <listitem name="outline" value="true" group="sidebar" />
+              <listitem name="glossary" value="true" group="sidebar" />
+              <listitem name="transcript" value="true" group="sidebar" />
+            </listitems>
+          </optionlist>
+          <option name="time_enabled" value="true">
+            <options>
+              <option name="time_format" value="elapsed" />
+            </options>
+          </option>
+          <option name="video_enabled" value="false">
+            <options>
+              <option name="height" value="135" />
+            </options>
+          </option>
+          <option name="logoAltText" value="0cb4a41f382ab33acbf0dce0f28c024e.gif" />
+        </options>
+      </optiongroup>
+      <optiongroup name="menuoptions">
+        <options>
+          <option name="flow" value="free" />
+          <option name="wraplistitems" value="false" />
+          <option name="tooltips" value="true" />
+          <option name="autocollapse" value="true" />
+          <option name="autonumber" value="false" />
+          <option name="enableresultsicons" value="true" />
+        </options>
+      </optiongroup>
+      <optiongroup name="controls">
+        <options>
+          <option name="volume" value="true" />
+          <option name="seekbar" value="false">
+            <options>
+              <option name="readonly" value="true" />
+              <option name="readonlyOnce" value="false" />
+            </options>
+          </option>
+          <option name="pauseplay" value="false" />
+          <option name="replay" value="false" />
+          <option name="search" value="true" />
+          <option name="closed_captions" value="true">
+            <options>
+              <option name="font" value="Open Sans" />
+            </options>
+          </option>
+          <option name="settings" value="true" />
+          <option name="fullScreenToggle" value="false" />
+        </options>
+      </optiongroup>
+      <optiongroup name="bottombaroptions">
+        <options>
+          <option name="bottombar_enabled" value="true" />
+        </options>
+      </optiongroup>
+    </optiongroups>
+  </control_options>
+  <control_layouts>
+    <control_layout name="npnxnanbsnfns01001011111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="true" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001011111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npxnabnsnfns01001011111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="npnxnanbnsnfns01001011111">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="false" />
+      <control name="next" enabled="false" />
+      <control name="swipeleft" enabled="false" />
+      <control name="swiperight" enabled="false" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="true" />
+    </control_layout>
+    <control_layout name="pxabnsnfns01001011110">
+      <control name="volume" enabled="true" />
+      <control name="seekbar" enabled="false" />
+      <control name="replay" enabled="false" />
+      <control name="pauseplay" enabled="false" />
+      <control name="logo" enabled="true" />
+      <control name="previous" enabled="true" />
+      <control name="next" enabled="true" />
+      <control name="swipeleft" enabled="true" />
+      <control name="swiperight" enabled="true" />
+      <control name="submit" enabled="false" />
+      <control name="finish" enabled="false" />
+      <control name="submitall" enabled="false" />
+      <control name="resources" enabled="false" />
+      <control name="glossary" enabled="true" />
+      <control name="transcript" enabled="true" />
+      <control name="outline" enabled="true">
+        <controls>
+          <control name="search" enabled="true" />
+        </controls>
+      </control>
+      <control name="close_btn" enabled="false" />
+    </control_layout>
+  </control_layouts>
+  <colorschemes>
+    <colorscheme name="npnxnanbsnfns01001011111">
+      <color_group name="accessibility">
+        <group_colors>
+          <color name="focus_rect">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFF00" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanel">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x7C2280" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x0000EE" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x444444" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="title_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x999999" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="infopanelpopup">
+        <group_colors>
+          <color name="link_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="link_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xB8B8B8" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="name_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bio_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="timer">
+        <group_colors>
+          <color name="duration">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x00D7FF" alpha="100" stop="0" />
+                <color rgb="0x00ABFF" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="elapsed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFEE347" alpha="100" stop="0" />
+                <color rgb="0xFCCC2A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="stroke">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC7C7C7" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="window">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB8964" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x000000" alpha="20" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="editor">
+        <group_colors>
+          <color name="slide_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="html_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="listitem">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x671B6B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="viewed">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF17D5E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="lines">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDA563A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="glossary">
+        <group_colors>
+          <color name="selected_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98E6E" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE85F39" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD96244" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF98B6A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEC7B59" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="resource">
+        <group_colors>
+          <color name="separator">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="outline">
+        <group_colors>
+          <color name="search_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divc">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCF5336" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="transcript">
+        <group_colors>
+          <color name="heading_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="div">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="tabs">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="selected">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFC4A2" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="seekcontrol">
+        <group_colors>
+          <color name="btn_icon_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFE1D0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF0F0F0" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_position">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE97D65" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="seek_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD33F1F" alpha="100" stop="0" />
+                <color rgb="0xCA3416" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC32E13" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE65832" alpha="100" stop="0" />
+                <color rgb="0xDF3F23" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="searchinput">
+        <group_colors>
+          <color name="text_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg_active">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="search_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2D2D2D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="hover_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEB9471" alpha="0" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE76E52" alpha="100" stop="0" />
+                <color rgb="0xE2694D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icon">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD7654B" alpha="100" stop="0" />
+                <color rgb="0xC42F13" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="scrollarea">
+        <group_colors>
+          <color name="detailb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="detaila">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xEA7C5D" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB3519" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="icons">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCA3417" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55D3B" alpha="100" stop="0" />
+                <color rgb="0xDB4D32" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="button_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE2522C" alpha="100" stop="0" />
+                <color rgb="0xD93E20" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF8795B" alpha="100" stop="0" />
+                <color rgb="0xF8795B" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="0">
+              <colors>
+                <color rgb="0xED6546" alpha="100" stop="0" />
+                <color rgb="0xEE6948" alpha="100" stop="128" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="menu">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35235" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED7254" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="logo">
+        <group_colors>
+          <color name="shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC73013" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="checkbox">
+        <group_colors>
+          <color name="hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x6BF8FF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="check">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0x2BC400" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD35338" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="button">
+        <group_colors>
+          <color name="btn_icon_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text_shadow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC23115" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xC93518" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_hover">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE15429" alpha="100" stop="0" />
+                <color rgb="0xC42D16" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_down">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD84121" alpha="100" stop="0" />
+                <color rgb="0xDE4C27" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE1512A" alpha="100" stop="0" />
+                <color rgb="0xD63A1D" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="btn_glow">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="10" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="base">
+        <group_colors>
+          <color name="text">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="diva">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xD63F21" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="divb">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF49277" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="menu_shade">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDD5233" alpha="100" stop="0" />
+                <color rgb="0xC53D1E" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF5674A" alpha="100" stop="0" />
+                <color rgb="0xF5674A" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slide_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xED5736" alpha="100" stop="0" />
+                <color rgb="0xD44120" alpha="100" stop="255" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="volume">
+        <group_colors>
+          <color name="thumb_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xCB361A" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_inner">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE55E3B" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="thumb_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xDB4524" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_border">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xF26E50" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+          <color name="slider_bg">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xE75E36" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+      <color_group name="HTML">
+        <group_colors>
+          <color name="htmlpage_bg_color">
+            <fill type="linear" rotation="90">
+              <colors>
+                <color rgb="0xFFFFFF" alpha="100" stop="0" />
+              </colors>
+            </fill>
+          </color>
+        </group_colors>
+      </color_group>
+    </colorscheme>
+  </colorschemes>
+  <string_tables>
+    <string_table name="npnxnanbsnfns01001011111">
+      <string id="three_image_progress_audio">التقدم</string>
+      <string id="three_image_audio">صوت</string>
+      <string id="three_image_camera_down">تحركت الكاميرا للأسفل</string>
+      <string id="three_image_camera_left">تحركت الكاميرا لليسار</string>
+      <string id="three_image_camera_right">تحركت الكاميرا لليمين</string>
+      <string id="three_image_camera_up">تحركت الكاميرا للأعلى</string>
+      <string id="three_image_interaction_free">وضع الاستكشاف المجاني</string>
+      <string id="three_image_interaction_guided">وضع الجولة المصحوبة بإرشادات</string>
+      <string id="three_image_hotspot">نقطة ساخنة</string>
+      <string id="three_image_instructions">استخدم المفاتيح w و a و s و d للتنقل حول الصورة بزاوية 360 درجة. اضغط على مفتاح علامة التبويب للانتقال إلى علامات تفاعلية ونقاط ساخنة. </string>
+      <string id="three_image_interaction">تفاعل صورة 360 درجة</string>
+      <string id="three_image_label">تسمية</string>
+      <string id="three_image_marker">علامة</string>
+      <string id="three_image_items">بنود</string>
+      <string id="three_image_interaction_next">التالي</string>
+      <string id="three_image_pause_audio">إيقاف الصوت مؤقتًا</string>
+      <string id="three_image_pause_video">إيقاف الفيديو مؤقتًا</string>
+      <string id="three_image_play_audio">تشغيل الصوت</string>
+      <string id="three_image_play_video">تشغيل الفيديو</string>
+      <string id="three_image_interaction_prev">السابق</string>
+      <string id="three_image_visited">زار</string>
+      <string id="three_image_of">من</string>
+      <string id="three_image_count_of_total">%count% من %total%</string>
+      <string id="acc_three_image_step_count_of_total">خطوة %count% من%total%</string>
+      <string id="three_image_item">بند</string>
+      <string id="three_image_interaction_step">خطوة</string>
+      <string id="three_image_tooltip">تلميح الأداة</string>
+      <string id="three_image_total_items">%total% عناصر</string>
+      <string id="three_image_total_item">%total% عنصر</string>
+      <string id="three_image_progress_video">التقدم</string>
+      <string id="three_image_video">فيديو</string>
+      <string id="three_image_video_volume">حجم الفيديو</string>
+      <string id="acc_three_image_count_of_total_items_visited">تمت زيارة %count% عناصر من %total%</string>
+      <string id="acc_three_image_count_of_total_item_visited">تمت زيارة %count% عنصر من %total%</string>
+      <string id="three_image_count_of_total_visited">تمت زيارة %count% من^%^ %total%</string>
+      <string id="accessible_text">نص الكتروني يمكن الوصول إليه</string>
+      <string id="acc_enter_fullscreen">دخول إلى وضع ملْ الشاشة</string>
+      <string id="acc_exit_fullscreen">الخروج من وضع ملْ الشاشة</string>
+      <string id="keyboardshortcuts_lower">اختصارات لوحة المفاتيح</string>
+      <string id="zoom_to_fit">تكبير ليصبح مناسب</string>
+      <string id="modern_video_settings_close">إغلاق إعدادات الفيديو</string>
+      <string id="acc_modern_video_fullscreen">فيديو بملء الشاشة</string>
+      <string id="modern_video_playback_settings">إعدادات تشغيل الفيديو</string>
+      <string id="modern_video_captions_off">إيقاف</string>
+      <string id="modern_video_captions_on">تشغيل</string>
+      <string id="modern_video_captions_label">التسميات التوضيحية</string>
+      <string id="acc_modern_video_settings">اعدادات الفيديو</string>
+      <string id="acc_modern_video_mute">كتم صوت الفيديو</string>
+      <string id="modern_video_normal_speed">عادية</string>
+      <string id="acc_modern_video_pause">إيقاف الفيديو مؤقتًا</string>
+      <string id="acc_modern_video_pip">صورة في صورة</string>
+      <string id="acc_modern_video_play">تشغيل الفيديو</string>
+      <string id="modern_video_playback_speed_title">سرعة التشغيل</string>
+      <string id="acc_modern_video_captions">تسميات الفيديو التوضيحية</string>
+      <string id="acc_modern_video_playback_speed">سرعة التشغيل</string>
+      <string id="acc_modern_video_volume">صوت الفيديو</string>
+      <string id="acc_active">نشط</string>
+      <string id="alt_key">تبديل</string>
+      <string id="check_include">التحديد للتضمين</string>
+      <string id="clear">المسح والعودة إلى القائمة</string>
+      <string id="close">إغلاق</string>
+      <string id="acc_closed_captions">تعليقات توضيحية مغلقة. اضغط على مفتاح المسافة للتبديل بين تشغيل التعليقات التوضيحية وإيقافها.</string>
+      <string id="closed_captions_tip">تبديل التسميات التوضيحية</string>
+      <string id="continue">متابعة</string>
+      <string id="continueresponsive">متابعة</string>
+      <string id="ctrl_key">سيطرة</string>
+      <string id="enable_keyboardshortcuts">تفعيل اختصارات لوحة المفاتيح</string>
+      <string id="enter_key">أدخل</string>
+      <string id="exit">خروج</string>
+      <string id="filter">عامل تصفية</string>
+      <string id="finish">إنهاء</string>
+      <string id="acc_finish">إنهاء</string>
+      <string id="definition">التعريف</string>
+      <string id="acc_definition">التعريف</string>
+      <string id="glossary">المصطلحات</string>
+      <string id="terms">الشروط</string>
+      <string id="progress_hour">ساعة</string>
+      <string id="progress_hours">ساعات</string>
+      <string id="action">إجراء</string>
+      <string id="keyboardshortcuts">اختصارات لوحة المفاتيح</string>
+      <string id="shortcuthelp">إدراج قائمة باختصارات لوحة المفاتيح</string>
+      <string id="mute_shortcut">كتم الصوت / إلغاء كتم الصوت</string>
+      <string id="next_shortcut">الشريحة التالية</string>
+      <string id="playpause_shortcut">تشغيل / إيقاف مؤقت</string>
+      <string id="previous_shortcut">الشريحة السابقة</string>
+      <string id="replay_shortcut">إعادة تشغيل الشريحة</string>
+      <string id="shortcut">اختصار</string>
+      <string id="submit_shortcut">إرسال الشريحة</string>
+      <string id="acctext_shortcut">تبديل النص الإلكتروني الذي يمكن الوصول إليه</string>
+      <string id="closedcaptions_shortcut">تبديل الترجمة والشرح</string>
+      <string id="fullscreen_shortcut">تبديل وضع ملْ الشاشة</string>
+      <string id="togglezoom">قم بتبديل التكبير/التصغير لملاءمة الصورة</string>
+      <string id="outline">القائمة</string>
+      <string id="disabled_orientation">الرجاء قم بتدوير جهازك</string>
+      <string id="progress_minute">دقيقة</string>
+      <string id="progress_minutes">دقائق</string>
+      <string id="mute_tip">كتم الصوت</string>
+      <string id="next">التالي</string>
+      <string id="acc_next">التالي</string>
+      <string id="next_slide_tip">الشريحة التالية</string>
+      <string id="transcript_chk">ملاحظات</string>
+      <string id="transcript">ملاحظات</string>
+      <string id="bio">سيرة ذاتية</string>
+      <string id="more_info">مزيد من المعلومات</string>
+      <string id="closed_captions">تعليقات توضيحية</string>
+      <string id="acc_pause">إيقاف مؤقت</string>
+      <string id="pause_tip">ايقاف مؤقت</string>
+      <string id="acc_play">تشغيل</string>
+      <string id="play_tip">تشغيل</string>
+      <string id="send_an_email">إرسال بريد إلكتروني</string>
+      <string id="prev">السابق</string>
+      <string id="acc_previous">السابق</string>
+      <string id="previous_slide_tip">الشريحة السابقة</string>
+      <string id="question_list">قائمة الأسئلة</string>
+      <string id="replay_tip">إعادة التشغيل</string>
+      <string id="acc_replay">إعادة تشغيل</string>
+      <string id="resources">الموارد</string>
+      <string id="acc_resources">الموارد</string>
+      <string id="restart">إعادة تشغيل</string>
+      <string id="resume">استئناف</string>
+      <string id="acc_locked">مقفل</string>
+      <string id="acc_search_input">بحث</string>
+      <string id="search_toggle">بحث</string>
+      <string id="sidebar_toggle">زر إظهار/إخفاء الشريط الجانبي</string>
+      <string id="acc_slide_progress">تقدم الشرائح</string>
+      <string id="desktop_start">بدء الدورة التدريبية</string>
+      <string id="mobile_start">بدء الدورة التدريبية</string>
+      <string id="acc_visited">زار</string>
+      <string id="search">جارٍ البحث...</string>
+      <string id="search_in">البحث في:</string>
+      <string id="search_results">نتائج البحث</string>
+      <string id="progress_second">ثانية</string>
+      <string id="progress_seconds">ثواني</string>
+      <string id="settings_tip">إعدادات</string>
+      <string id="shift_key">تحويل</string>
+      <string id="acc_skipnavigation">العودة لأعلى</string>
+      <string id="slide_text_chk">نص منزلق</string>
+      <string id="spacebar_key">فراغ</string>
+      <string id="submitall">إرسال الكل</string>
+      <string id="acc_submitall">إرسال الكل</string>
+      <string id="submit">إرسال</string>
+      <string id="acc_submit">إرسال</string>
+      <string id="submit_tip">إرسال</string>
+      <string id="unmute_tip">إعادة الصوت</string>
+      <string id="acc_volume">مستوى الصوت</string>
+    </string_table>
+  </string_tables>
+  <fonts>
+    <font name="Zilla Slab">
+      <files>
+        <file bold="true" italic="false" />
+        <file bold="false" italic="false" />
+      </files>
+    </font>
+  </fonts>
+  <sounds enabled="true" />
+  <nav_data>
+    <outline>
+      <links>
+        <slidelink slideid="_player.5ppDmCH0qDp" displaytext="اسئلة الصواب والخطأ" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.5ppDmCH0qDp.5biM3srFUdF" displaytext="1. لإضافة شريحة جديدة يتم بالنقر على تبويب Home  ثم أختيار منها الأمر New Slide   " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5W21n8s3Gw6" displaytext="2. لضبط حجم شريحة العمل يتم من خلال أختيار الأمر Design  من تبويب Story Size . " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6Szs0gn0ex0" displaytext="3. لإختيار التنسيق المناسب لخلفية شريحة العمل يتم بأختيار Format Background من التبويب Home ." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6hHTCOtyrph" displaytext="4. يحتوي برنامج استوري لاين Storyline 3  بالقوالب الجاهزة لشرائح العمل لإستخدامها لإنتاج درس تفاعلي . " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5VQkmud3D7l" displaytext="5. لإضافة شريحة جديدة بتخطيط مناسب، نضغط على أمر New Story.  " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5u3Wy2RyPgK" displaytext="6. لتخصيص حركة انتقالية لشرائح العرض للدرس التعليمي يتم من خلال التبويب Transitions ." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6Hz4MpQpb6i" displaytext="7. لتكرار شريحة بنفس التخطيط ويتم بالضغط على أمر Duplicate. " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6FfZ1hfz5UV" displaytext="8.عند إنشاء شريحة جديدة، يتم تسميتها untitled تلقائياً من قبل البرنامج  ولا يمكن تغييره  .  " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6Ive138nJQu" displaytext="9. لإضافة طبقة جديدة للشريحة، يتم بالضغط على أمر New Layer . " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6U4MAzbvUQW" displaytext="10. لإدراج  شخصية Character داخل شريحة العرض يتم بالضغط على أمر Pose ." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5lY0boQhBOE" displaytext="11. لإجراء  التعديل على تعبيرات الوجه  Expression للشخصية المضافة يتم بالضغط على تبويب Character. " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5f1i6GPfpyH" displaytext="12. للتعديل على تعبيرات وضعية جسم الشخصية المضافة لشريحة العمل يتم بالضغط على الأمر Expression ." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6LbxgQyoAUC" displaytext="13.  لإدراج صورة  داخل شريحة العمل، يتم بالضغط على أمر Image.  " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6O5GLodaU5f" displaytext="14. يسمح برنامج استوري لاين بإضافة تأثيرات مختلفة على الصورة المضافة لشريحة العرض ." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6FOVKnQJGLj" displaytext="15. يسمح برنامج استوري لاين بإدراج مشغل بسيط داخل شريحة العرض. " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.61XzRUFxruA" displaytext="16. يمكن تغيير لغة النص الظاهر على المشغل الي اللغة العربية ببرنامج استورى لاين Storyline 3. " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5xPU2Z00H4G" displaytext="17. يتيح برنامج استوري لاين للمصمم إمكانية إضافة نقاط ساخنة داخل الدرس الإلكتروني التفاعلي ." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5w904UF6k69" displaytext="18.يؤخذ على برنامج استوري لاين بعدم التعامل مع خاصية السحب والإفلات داخل شرائح العرض. " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5X7SvNfCTcq" displaytext="19.يدعم برنامج استوري لاين Storyline 3 إمكانية إدراج لقطة شاشة إلى شريحة العمل. " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5q4USFlMlk3" displaytext="20. ينصح بإضافة الأشكال الهندسية إلى شريحة العمل لتوضيح محتواها. " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.69iDNnrU01n" displaytext="21. يفضل إضافة الفيديوهات إلى شريحة العمل ، ويتم بالضغط على قائمة Home ثم اختيار الأمر Video  ." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5lbiysaD0OD" displaytext="22.يؤخذ على برنامج استوري لاين بعدم التحكم في ضبط إعدادات عرض لقطات الفيديو المضافة لشريحة العمل." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.60jAFGMBB1n" displaytext="23.يؤخذ على برنامج استوري لاين بأنه لايمكن ضبط التزامن بين الصوت والنص المضافة لشريحة العمل ." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6CANVNlgqTF" displaytext="24. لإدراج صندوق النص Text Box إلى شريحة العمل يتم من خلال تبويب Home. " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6F0VeLmYmUI" displaytext="25. يتيح برنامج استوري لاينStoryline 3  إدراج الجداول إلى المشهد بالبرنامج.  " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6LIko6aVfEQ" displaytext="Untitled Slide" expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6E5LzfuYuMB" displaytext="1.	لإنشاء شريحة جديدة بالبرنامج يتم باختيار الأمر ................." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6OtfFCcgjvH" displaytext="2.لضبط نوع الخط بشريحة العمل يتم من خلال تبويب …………… " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6FqdonNPlR4" displaytext="3. لتخصيص حركة انتقالية لشرائح العرض للدرس التعليمي يتم من خلال التبويب .... " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6CbnLxVA7oQ" displaytext="4. لإضافة شريحة بإستخدام القوالب الجاهزة بالبرنامج يتم باختيار الأمرTemplate من خلال التبويب............." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6id9DXAN5DF" displaytext="5. لإضافة شريحة جديدة بتخطيط مناسب يتم من خلال اختيار الأمر........ " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5xs36GPLWMT" displaytext="6. لإعادة تسمية أحد الشرائح في الدرس التفاعلي يتم باختيار الأمر .................من القائمة المنسدلة." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6NrhQW2lm3Q" displaytext="7.  لتحديد الشريحة الرئيسية بالعرض التفاعلي يتم باختيار الأمر .................من التويب View ." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6UsgeOZyVaH" displaytext="8. لتغيير اتجاه النص ببرنامج استوري لاين، يتم بالضغط على أمر...... " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6IuDp0dcS0O" displaytext="9. لإضافة طبقة جديدة بشريحة العمل، يتم بالضغط باختيار الأمر  ...... " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5V90mVnSlaD" displaytext="10. لإضافة شخصية داخل شريحة العمل، يتم باختيار الأمر  .......... من تبويب Insert." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6r83csi3IW9" displaytext="11. للتعديل على تعبيرات الوجه للشخصية المضافة بالمشهد يتم بالضغط على تبويب..............." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5h148hpIcn0" displaytext="12. للتعديل على وضعية جسم الشخصية المضافة بالمشهد يتم بالضغط على تبويب............. " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6bs0GazWXwE" displaytext="13. يدعم برنامج استوري لاين إدراج الصور إلى شريحة العمل، يتم بالضغط على أمر.............من قائمةInsert " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5sLyK4kNKrJ" displaytext="14. لإضافة تأثيرات مختلفة للصور المضافة لشريحة العمل يتم باختيار ما يناسب من خلال الأمر ................." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6XLRfZmzD9V" displaytext="15.لإضافة لوجو للدرس اختر الأمر .......من نافذة ضبط اعدادات المشغل." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5i0FnZeU2nD" displaytext="16.لإضافة نقاط ساخنة إلى شريحة العمل، يتم بالضغط على قائمة Insert  ثم اختيار الامر..............  " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5Y3o7sJ9iwH" displaytext="39. للتعامل مع خاصية السحب والإفلات داخل شريحة العرض يتم باختيار الأمر................ " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6an1Sv8bxDA" displaytext="17.لإدراج لقطة الشاشة لشريحة العمل، تتم بإختيار الأمر............. " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6rGxhS2T7Qx" displaytext="18. لإضافة أشكال هندسية لشريحة العمل، يتم بالضغط على قائمة...... " expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.5uNI0k1ew27" displaytext="19.عند إدراج الفيديو إلى شريحة العمل، يمكن التحكم في كل مما يلي ما عدا." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6f8WDrp4g9V" displaytext="20.  يسمح برنامج استوري لاين Storyline 3 بتسجيل الأصوات وإضافتها بشريحة العرض يتم باختيار الأمر ........." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6hnwVWmNqDe" displaytext="21.  لإدراج صندوق نص إلى شريحة العمل، يتم بالضغط على قائمة ........ ثم اختيار الأمر.............." expand="false" type="slide" />
+            <slidelink slideid="_player.5ppDmCH0qDp.6M8OT0kC4xa" displaytext="22. الجداول المضافة داخل شريحة العمل تنظم عمليات المقارنة، ويتم إدراجها من خلال تبويب............ثم اختر Tabel. " expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
+    <search>
+      <slidetext slideid="5ppDmCH0qDp.5biM3srFUdF" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 1. لإضافة شريحة جديدة يتم بالنقر على تبويب home  ثم أختيار منها الأمر new slide   </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5W21n8s3Gw6" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 2. لضبط حجم شريحة العمل يتم من خلال أختيار الأمر design  من تبويب story size . </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6Szs0gn0ex0" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 3. لإختيار التنسيق المناسب لخلفية شريحة العمل يتم بأختيار format background من التبويب home .</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6hHTCOtyrph" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 4. يحتوي برنامج استوري لاين storyline 3  بالقوالب الجاهزة لشرائح العمل لإستخدامها لإنتاج درس تفاعلي . </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5VQkmud3D7l" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 5. لإضافة شريحة جديدة بتخطيط مناسب، نضغط على أمر new story.  </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5u3Wy2RyPgK" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 6. لتخصيص حركة انتقالية لشرائح العرض للدرس التعليمي يتم من خلال التبويب transitions .</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6Hz4MpQpb6i" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 7. لتكرار شريحة بنفس التخطيط ويتم بالضغط على أمر duplicate. </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6FfZ1hfz5UV" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 8.عند إنشاء شريحة جديدة، يتم تسميتها untitled تلقائياً من قبل البرنامج  ولا يمكن تغييره  .  </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6Ive138nJQu" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 9. لإضافة طبقة جديدة للشريحة، يتم بالضغط على أمر new layer . </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6U4MAzbvUQW" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 10. لإدراج  شخصية character داخل شريحة العرض يتم بالضغط على أمر pose .</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5lY0boQhBOE" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 11. لإجراء  التعديل على تعبيرات الوجه  expression للشخصية المضافة يتم بالضغط على تبويب character. </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5f1i6GPfpyH" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 12. للتعديل على تعبيرات وضعية جسم الشخصية المضافة لشريحة العمل يتم بالضغط على الأمر expression .</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6LbxgQyoAUC" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 13.  لإدراج صورة  داخل شريحة العمل، يتم بالضغط على أمر image.  </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6O5GLodaU5f" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 14. يسمح برنامج استوري لاين بإضافة تأثيرات مختلفة على الصورة المضافة لشريحة العرض .</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6FOVKnQJGLj" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 15. يسمح برنامج استوري لاين بإدراج مشغل بسيط داخل شريحة العرض. </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.61XzRUFxruA" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 16. يمكن تغيير لغة النص الظاهر على المشغل الي اللغة العربية ببرنامج استورى لاين storyline 3. </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5xPU2Z00H4G" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 17. يتيح برنامج استوري لاين للمصمم إمكانية إضافة نقاط ساخنة داخل الدرس الإلكتروني التفاعلي .</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5w904UF6k69" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 18.يؤخذ على برنامج استوري لاين بعدم التعامل مع خاصية السحب والإفلات داخل شرائح العرض. </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5X7SvNfCTcq" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 19.يدعم برنامج استوري لاين storyline 3 إمكانية إدراج لقطة شاشة إلى شريحة العمل. </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5q4USFlMlk3" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 20. ينصح بإضافة الأشكال الهندسية إلى شريحة العمل لتوضيح محتواها. </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.69iDNnrU01n" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 21. يفضل إضافة الفيديوهات إلى شريحة العمل ، ويتم بالضغط على قائمة home ثم اختيار الأمر video  .</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5lbiysaD0OD" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 22.يؤخذ على برنامج استوري لاين بعدم التحكم في ضبط إعدادات عرض لقطات الفيديو المضافة لشريحة العمل.</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.60jAFGMBB1n" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 23.يؤخذ على برنامج استوري لاين بأنه لايمكن ضبط التزامن بين الصوت والنص المضافة لشريحة العمل .</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6CANVNlgqTF" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 24. لإدراج صندوق النص text box إلى شريحة العمل يتم من خلال تبويب home. </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6F0VeLmYmUI" slidebank="false" type="slide">يجب عليك اختيار أحد الإجابات  incorrect الإجابة خطأ متابعة continue continue continue continue متابعة incorrect أحسنت إجابتك صحيحة متابعة continue continue continue continue متابعة  صح  صح  صح  صح  صح  صح  خطأ خطأ خطأ خطأ خطأ خطأ 25. يتيح برنامج استوري لاينstoryline 3  إدراج الجداول إلى المشهد بالبرنامج.  </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6LIko6aVfEQ" slidebank="false" type="slide">السؤال الثاني :  الإختيار من متعدد</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6E5LzfuYuMB" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  1.	لإنشاء شريحة جديدة بالبرنامج يتم باختيار الأمر ................. new slide             new slide             new slide             new slide             new slide             new slide             install             install             install             install             install             install             new scene new scene new scene new scene new scene new scene new project new project new project new project new project new project</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6OtfFCcgjvH" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  2.لضبط نوع الخط بشريحة العمل يتم من خلال تبويب ……………  	format background       	format background       	format background       	format background       	format background       	format background       	story size                	story size                	story size                	story size                	story size                	story size                ‌	design  ‌	design  ‌	design  ‌	design  ‌	design  ‌	design  	fonts 	fonts 	fonts 	fonts 	fonts 	fonts</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6FqdonNPlR4" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  3. لتخصيص حركة انتقالية لشرائح العرض للدرس التعليمي يتم من خلال التبويب ....  review                           review                           review                           review                           review                           review                           review                           review                           review                           review                           review                           review                           animations  animations  animations  animations  animations  animations  transitions  transitions  transitions  transitions  transitions  transitions </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6CbnLxVA7oQ" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  4. لإضافة شريحة بإستخدام القوالب الجاهزة بالبرنامج يتم باختيار الأمرtemplate من خلال التبويب............. help                 help                 help                 help                 help                 help                 slides                             slides                             slides                             slides                             slides                             slides                             open                  open                  open                  open                  open                  open                  home  home  home  home  home  home </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6id9DXAN5DF" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  5. لإضافة شريحة جديدة بتخطيط مناسب يتم من خلال اختيار الأمر........  help                 help                 help                 help                 help                 help                  new slide   new slide   new slide   new slide   new slide   new slide  open                  open                  open                  open                  open                  open                  now folder  now folder  now folder  now folder  now folder  now folder </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5xs36GPLWMT" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  6. لإعادة تسمية أحد الشرائح في الدرس التفاعلي يتم باختيار الأمر .................من القائمة المنسدلة. duplicate                   duplicate                   duplicate                   duplicate                   duplicate                   duplicate                   import               import               import               import               import               import               rename                    rename                    rename                    rename                    rename                    rename                    recent  recent  recent  recent  recent  recent </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6NrhQW2lm3Q" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  7.  لتحديد الشريحة الرئيسية بالعرض التفاعلي يتم باختيار الأمر .................من التويب view . master                    master                    master                    master                    master                    master                    import               import               import               import               import               import               select slide select slide select slide select slide select slide select slide recent  recent  recent  recent  recent  recent </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6UsgeOZyVaH" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  8. لتغيير اتجاه النص ببرنامج استوري لاين، يتم بالضغط على أمر......   font text   font text   font text   font text   font text   font text  recent                 recent                 recent                 recent                 recent                 recent                 text direction text direction text direction text direction text direction text direction view  view  view  view  view  view </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6IuDp0dcS0O" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  9. لإضافة طبقة جديدة بشريحة العمل، يتم بالضغط باختيار الأمر  ......  home                   home                   home                   home                   home                   home                   slide layer slide layer slide layer slide layer slide layer slide layer insert                       insert                       insert                       insert                       insert                       insert                       file file file file file file</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5V90mVnSlaD" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  10. لإضافة شخصية داخل شريحة العمل، يتم باختيار الأمر  .......... من تبويب insert. character                 character                 character                 character                 character                 character                 expression         expression         expression         expression         expression         expression         now folder now folder now folder now folder now folder now folder install  install  install  install  install  install </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6r83csi3IW9" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  11. للتعديل على تعبيرات الوجه للشخصية المضافة بالمشهد يتم بالضغط على تبويب............... character                 character                 character                 character                 character                 character                 install           install           install           install           install           install           now folder now folder now folder now folder now folder now folder expression         expression         expression         expression         expression         expression        </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5h148hpIcn0" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  12. للتعديل على وضعية جسم الشخصية المضافة بالمشهد يتم بالضغط على تبويب.............  pose                    pose                    pose                    pose                    pose                    pose                    home                    home                    home                    home                    home                    home                    character                 character                 character                 character                 character                 character                 expression         expression         expression         expression         expression         expression        </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6bs0GazWXwE" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  13. يدعم برنامج استوري لاين إدراج الصور إلى شريحة العمل، يتم بالضغط على أمر.............من قائمةinsert  home                 home                 home                 home                 home                 home                 image                      image                      image                      image                      image                      image                      picture                     picture                     picture                     picture                     picture                     picture                     view view view view view view</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5sLyK4kNKrJ" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  14. لإضافة تأثيرات مختلفة للصور المضافة لشريحة العمل يتم باختيار ما يناسب من خلال الأمر ................. text spot text spot text spot text spot text spot text spot picture effects picture effects picture effects picture effects picture effects picture effects hot spot hot spot hot spot hot spot hot spot hot spot character                character                character                character                character                character               </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6XLRfZmzD9V" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  15.لإضافة لوجو للدرس اختر الأمر .......من نافذة ضبط اعدادات المشغل. text spot text spot text spot text spot text spot text spot player               player               player               player               player               player               logo                  logo                  logo                  logo                  logo                  logo                  character                character                character                character                character                character               </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5i0FnZeU2nD" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  16.لإضافة نقاط ساخنة إلى شريحة العمل، يتم بالضغط على قائمة insert  ثم اختيار الامر..............   text spot text spot text spot text spot text spot text spot shape                   shape                   shape                   shape                   shape                   shape                   hot spot hot spot hot spot hot spot hot spot hot spot character                character                character                character                character                character               </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5Y3o7sJ9iwH" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  39. للتعامل مع خاصية السحب والإفلات داخل شريحة العرض يتم باختيار الأمر................  drag and drop drag and drop drag and drop drag and drop drag and drop drag and drop slider                   slider                   slider                   slider                   slider                   slider                   expression             expression             expression             expression             expression             expression             view view view view view view</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6an1Sv8bxDA" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  17.لإدراج لقطة الشاشة لشريحة العمل، تتم بإختيار الأمر.............  text spot text spot text spot text spot text spot text spot shape                   shape                   shape                   shape                   shape                   shape                   hot spot hot spot hot spot hot spot hot spot hot spot screen shot screen shot screen shot screen shot screen shot screen shot</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6rGxhS2T7Qx" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  18. لإضافة أشكال هندسية لشريحة العمل، يتم بالضغط على قائمة......  home                  home                  home                  home                  home                  home                  review                      review                      review                      review                      review                      review                      insert                        insert                        insert                        insert                        insert                        insert                        view view view view view view</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.5uNI0k1ew27" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  19.عند إدراج الفيديو إلى شريحة العمل، يمكن التحكم في كل مما يلي ما عدا. ابعاد الفيديو                ابعاد الفيديو                ابعاد الفيديو                ابعاد الفيديو                ابعاد الفيديو                ابعاد الفيديو                تحرير الفيديو                     تحرير الفيديو                     تحرير الفيديو                     تحرير الفيديو                     تحرير الفيديو                     تحرير الفيديو                     موقع الفيديو                موقع الفيديو                موقع الفيديو                موقع الفيديو                موقع الفيديو                موقع الفيديو                جودة الفيديو  جودة الفيديو  جودة الفيديو  جودة الفيديو  جودة الفيديو  جودة الفيديو </slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6f8WDrp4g9V" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  20.  يسمح برنامج استوري لاين storyline 3 بتسجيل الأصوات وإضافتها بشريحة العرض يتم باختيار الأمر ......... add audio add audio add audio add audio add audio add audio insert  audio insert  audio insert  audio insert  audio insert  audio insert  audio record mic record mic record mic record mic record mic record mic view - textbox view - textbox view - textbox view - textbox view - textbox view - textbox</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6hnwVWmNqDe" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  21.  لإدراج صندوق نص إلى شريحة العمل، يتم بالضغط على قائمة ........ ثم اختيار الأمر.............. add - text add - text add - text add - text add - text add - text home – text box home – text box home – text box home – text box home – text box home – text box insert – text box insert – text box insert – text box insert – text box insert – text box insert – text box view – text box view – text box view – text box view – text box view – text box view – text box</slidetext>
+      <slidetext slideid="5ppDmCH0qDp.6M8OT0kC4xa" slidebank="false" type="slide">متابعة متابعة متابعة متابعة متابعة متابعة incorrect الإجابة خطأ متابعة متابعة متابعة متابعة متابعة متابعة incorrect أحسنت إجابتك صحيحة  22. الجداول المضافة داخل شريحة العمل تنظم عمليات المقارنة، ويتم إدراجها من خلال تبويب............ثم اختر tabel.  insert                    insert                    insert                    insert                    insert                    insert                    review                      review                      review                      review                      review                      review                      home                   home                   home                   home                   home                   home                   view view view view view view</slidetext>
+    </search>
+  </nav_data>
+  <resource_data description="" />
+  <transcript_data />
+  <glossary_data />
+</bwFrame>
